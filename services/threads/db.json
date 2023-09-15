@@ -1,0 +1,19 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "title": "Whatsup?",
+      "createdBy": 4
+    },
+    {
+      "id": 2,
+      "title": "demain l'anniversaire de admin",
+      "createdBy": 3
+    },
+    {
+      "id": 3,
+      "title": "hi",
+      "createdBy": 1
+    }
+  ]
+}

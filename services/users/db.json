@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Mohamedalii",
+      "name": "Mohamed ali rezgui",
+      "bio": "premier utilisateur pour le PFE"
+    },
+    {
+      "id": 2,
+      "username": "Sirine",
+      "name": "Sirine sirine",
+      "bio": "2eme utilisatuer pour le PFE"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "name": "administrateur",
+      "bio": "3eme utilisatuer pour le PFE"
+    },
+    {
+      "id": 4,
+      "username": "user",
+      "name": "user",
+      "bio": "4eme utilisateur"
+    }
+  ]
+}

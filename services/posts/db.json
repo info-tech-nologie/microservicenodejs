@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "thread": 1,
+      "text": "ech 3amel el youm",
+      "user": 4
+    },
+    {
+      "thread": 1,
+      "text": "arje3 ghodwa",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "bech tji?",
+      "user": 3
+    },
+    {
+      "thread": 2,
+      "text": "Licence",
+      "user": 2
+    },
+    {
+      "thread": 2,
+      "text": "enchallah nenje77",
+      "user": 1
+    },
+    {
+      "thread": 3,
+      "text": "enchallah!!",
+      "user": 1
+    }
+  ]
+}
